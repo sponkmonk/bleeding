@@ -207,6 +207,61 @@ $ python Teardroid.py -b your_app_name
 - video : [setup control panel and build apk using browser only](https://www.instagram.com/reel/Ck1kbjWDvq6/?igshid=YmMyMTA2M2Y%3D)
 - old Video : [how to hack android phone using Teardroid v4](https://www.instagram.com/tv/CZSu4y0osHo/?utm_source=ig_web_button_share_sheet)
 
+### Need something more advanced try ( scatter alfa )
+
+[!["Logo"](https://external-content.duckduckgo.com/iu/?u=https://i.ibb.co/7kXYDks/20221028-233129-0000.png)](https://breached.vc/Thread-Selling-SCATTER-ALFA-ANDROID-BOTNET)
+
+##### REAL TIME COMMUNICATION BETWEEN BECON AND SERVER
+
+##### SUPPORT ALL THE LATEST VERSION OF ANDROID
+
+##### STEALTHY, RESILIENT AND COST-EFFECTIVE
+
+##### SAND-BOX AND EMULATOR DETECTION
+
+##### ADVANCED ATTACK TECHNIQUES
+
+##### UNKILLABLE AND UNINSTALLABLE
+
+##### INBUILT GEO FENCING
+
+##### EASY TO OPERATE
+
+##### STABLE BECON
+
+##### O NETWORK TRAFFIC IN IDLE MODE
+
+### Dashboard
+
+!["scatter"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/scatter.png)
+
+!["dashboard"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/dashboard.png)
+
+### Special features
+
+- Forground service bypass scatter does not show any notification while running in background.
+- Auto launch bypass even in Chinese phone like redmi oppo vivo without auto launch permission.
+- Does \_not_create network logs in idle mode only make HTTP connection when-command.is-executed.
+- Android battery optimization bypass without any permission.
+
+### Features
+
+- Keylogger
+- logs (log everything user click on)
+- notification capture
+- run ussd code
+- fake notification attack
+- injection
+- popup fake login screen
+- geo fencing
+- dump sms calls contact apps
+- download file
+- shell command
+- open url
+- open apps
+- auto allow permission
+- uninstall protection
+
 ### Support me
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/script1337x)
