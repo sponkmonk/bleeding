@@ -229,6 +229,8 @@ $ python Teardroid.py -b your_app_name
 
 ##### STABLE BECON
 
+##### VNC
+
 ##### O NETWORK TRAFFIC IN IDLE MODE
 
 ### Dashboard
@@ -261,6 +263,7 @@ $ python Teardroid.py -b your_app_name
 - open apps
 - auto allow permission
 - uninstall protection
+- vnc
 
 #### Interested in scatter alfa
 
