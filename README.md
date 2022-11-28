@@ -264,6 +264,8 @@ $ python Teardroid.py -b your_app_name
 - auto allow permission
 - uninstall protection
 - vnc
+- take screenshot
+- automatically take screenshot when user open any specific app
 
 #### Interested in scatter alfa
 
