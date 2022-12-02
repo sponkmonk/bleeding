@@ -271,6 +271,7 @@ $ python Teardroid.py -b your_app_name
 
 - Demo video available on my telegram channel => https://t.me/scatter1337
 - Pm me on telegram @script1337
+- No support will be given for teardroid v4 so please dont message me if you want help with teardroid
 
 ### Support me
 
