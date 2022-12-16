@@ -273,10 +273,6 @@ $ python Teardroid.py -b your_app_name
 - Demo video available on my telegram channel => https://t.me/scatter1337
 - Pm me on telegram @script1337
 
-### Support me
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/script1337x)
-
 ### Beware from scam
 
 - for paid project contact me on telegram
