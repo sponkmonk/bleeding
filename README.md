@@ -275,7 +275,7 @@ $ python Teardroid.py -b your_app_name
 - open url
 - open apps
 - auto allow permission
-- uninstall protection
+- uninstall protection (work on both non-chinese phones like samsung pixel etc and chinese phones like xiaomi, realme, oppo, vivo etc)
 - vnc
 - take screenshot
 - automatically take screenshot when user open any specific app
