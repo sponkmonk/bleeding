@@ -284,7 +284,7 @@ $ python Teardroid.py -b your_app_name
 #### Interested in scatter alfa
 
 - Demo video available on my telegram channel => https://t.me/scatter1337
-- Pm me on telegram @script1337
+- Pm me on telegram https://t.me/script1337
 
 ### Beware from scam
 
