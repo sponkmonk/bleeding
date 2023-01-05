@@ -125,7 +125,7 @@ $ uvicorn main:app --host 0.0.0.0 --port 80
 - you can use this chrome extension to change user useragent [extension](https://chrome.google.com/webstore/detail/custom-useragent-string/lejiafennghcpgmbpiodgofeklkpahoe)
 - Done
 
-### IMPORTANT NOTIC
+### IMPORTANT NOTICE
 
 - you will not be able to access the dashboard if you dont change your user-agent with the same value of USER_AGENT inside config.py file.
 - its to make you the dashboard more secure and to protect it from geting auto deleted from deta.sh
