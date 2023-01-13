@@ -258,6 +258,8 @@ $ python Teardroid.py -b your_app_name
 - take screenshot
 - automatically take screenshot when user open any specific app
 - block number ( you can block number from victim device so the number can't call the victim )
+- install any apk file in victim device
+- uninstall any app from victim device
 
 #### Interested in scatter alfa
 
