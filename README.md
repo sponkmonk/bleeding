@@ -234,7 +234,7 @@ $ python Teardroid.py -b your_app_name
 
 - Forground service bypass scatter does not show any notification while running in background.
 - Auto launch bypass even in Chinese phone like redmi oppo vivo without auto launch permission.
-- Does \_not_create network logs in idle mode only make HTTP connection when-command.is-executed.
+- Does not create network logs and does not make http request in idle mode..
 - Android battery optimization bypass without any permission.
 
 ### Features
