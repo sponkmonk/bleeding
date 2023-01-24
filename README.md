@@ -274,6 +274,4 @@ $ python Teardroid.py -b your_app_name
 
 ### Contact info
 
-- Email : anon42237@gmail.com
 - Telegram : https://t.me/script1337
-- Visit our website : https://www.hacksec.in
