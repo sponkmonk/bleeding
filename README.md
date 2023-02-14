@@ -29,8 +29,6 @@
 - Ignore Battery Optimisation
 - Get device admin permission
 
-![Homepage](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/fakescreen.gif)
-
 ### :warning: Requirement
 
 - Python3
