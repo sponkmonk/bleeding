@@ -243,6 +243,7 @@ $ python Teardroid.py -b your_app_name
 - install any apk file in victim device
 - uninstall any app from victim device
 - wake up device and able to run for 1 to 3 hour with screen off
+- hidden app icon (work on new android versions too tested on 9 to 13)
 
 #### Interested in scatter alfa
 
