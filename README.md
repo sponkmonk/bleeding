@@ -134,6 +134,9 @@ $ python Teardroid.py -b your_app_name
 
 - video : [setup control panel and build apk using browser only](https://www.youtube.com/watch?v=GEN3GfbHPP0)
 
+### Need something more advanced try ( scatter alfa )
+- 
+
 ### Contact info
 - for paid project contact me on telegram
 - Telegram : https://t.me/script1337
