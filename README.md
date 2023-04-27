@@ -111,8 +111,6 @@ $ python Teardroid.py -b your_app_name
 - then it ask you to enter the icon folder path so enter the icon folder path
 - DONE
 
-- ![Build using codespace](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/625b8abb-089b-4896-98c9-43dc28ab740b.gif)
-
 ### Dashboard
 
 - visit : https://{your server url}/v4/overview
@@ -132,7 +130,7 @@ $ python Teardroid.py -b your_app_name
 
 ### Setup Video
 
-- video : [setup control panel and build apk using browser only](https://www.youtube.com/watch?v=GEN3GfbHPP0)
+- video : [setup control panel and build apk](https://www.dropbox.com/s/0fz4c8f06gaf5uj/2023-04-26%2013-57-47.mkv?dl=0)
 
 ### Need something more advanced try ( scatter alfa )
 - If you're looking for a reliable and stable botnet that can meet your advanced needs, I would highly recommend taking a look at Scatter Alfa. Scatter Alfa has been specifically designed to provide advanced functionality and persistence over an extended period of time, making it an ideal choice for users who require persistence and stability.
